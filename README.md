@@ -1,14 +1,13 @@
-**Fomecard 海外虚拟信用卡全解析：免费、便捷、多功能**
+# LimaoPay 海外虚拟信用卡全解析：免费、便捷、多功能
 
-在全球化和数字化快速发展的今天，拥有一张能够跨境使用、支持多种充值方式的虚拟信用卡变得尤为重要。Fomecard作为一款无月费、无年费、无管理费的海外虚拟信用卡，提供了万事达卡和Visa卡的选项，支持微信、支付宝充值，适合广泛的在线支付场景，如ChatGPT、Midjourney、PayPal、Shopify和TikTok等。
+⭐️ 狸猫支付是一家总部位于香港的全球领先金融科技公司，专注于为商家和金融机构提供跨境支付和一站式资金管理解决方案。目前国内有香港公司、福建运营中心、上海运营中心，海外有美国公司、新加坡公司。
+🌈 我们的使命是构建真正意义上的全球支付网络，为客户提供简单、高效、安全、低成本的全球跨境支付和资金管理服务。
+ 🌱 我们的优势不仅体现在多币种钱包、全球发卡、全球开户和全球支付等核心业务上，而且也表现在全球范围内拥有广泛的资源网络，与各国金融机构建立了稳固的合作关系以及我们严格的风险管理、合规措施体系。
 
-![image](https://private-user-images.githubusercontent.com/169782408/333046140-677a076a-b039-43c0-b940-ce12a328d40d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM2MjU4MjgsIm5iZiI6MTc2MzYyNTUyOCwicGF0aCI6Ii8xNjk3ODI0MDgvMzMzMDQ2MTQwLTY3N2EwNzZhLWIwMzktNDNjMC1iOTQwLWNlMTJhMzI4ZDQwZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyMFQwNzU4NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MjVmYTc0NDIwZWRhMGE2MjFlOTRlZjNmMDhkZGQ1NDkxYTc2NjVkZjgxMDIwYTdmOTkyMTRkMWIxYzIxN2NlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0utSWzg8fRCkzCaODdj9td60xwI1NKVFySvpDho5tIg)
+<img width="296" height="193" alt="image" src="https://github.com/user-attachments/assets/d1afc9f7-e773-44ac-812e-bd10ee82e7ae" />
 
-**Fomecard 特点**
 
-- **无需KYC认证**
-    
-    用户无需进行身份验证即可快速开卡，简化了传统信用卡申请的复杂流程。
+**LimaoPay 特点**
     
 - **多货币支持**
     
@@ -23,54 +22,47 @@
     可用于各大在线购物平台、SaaS服务订阅以及各种娱乐消费场所。
     
 
-**如何开通并使用 Fomecard**
+**如何开通并使用 LimaoPay**
 
-**开通流程**
+ **访问 LimaoPay 官网**
+    
+    打开 [LimaoPay 官网](https://www.limaopay.com/register/#/register?codes=dj7IcYC3)
+ **开通流程**
 
-1. **访问 Fomecard 官网**
-    
-    打开 [Fomecard 官网](https://pc.fomecard.com/register?rc=V42820)
-    
-2. **选择卡片类型**
-    
-    根据需要选择万事达卡或Visa卡。
-    
-3. **注册账户**
-    
-    填写基本信息进行注册。
-    
-4. **充值**
-    
-    选择微信或支付宝作为充值方式，按指示完成充值。
-    
+    打开 [LimaoPay 注册教程链接]([https://www.limaopay.com/register/#/register?codes=dj7IcYC3](https://acnex1lpvjjy.feishu.cn/wiki/Crf5wDohoiMjIjkYiKgc7VuWnDh))
 
 **使用场景**
 
 - **在线购物**
     
-    在如Amazon、Ebay等国际电商平台使用。
+    在如Amazon、Ebay、dhgate、aliexpress、阿里国际站、shein等国际电商平台使用。
     
 - **服务订阅**
     
-    订阅如Netflix、Spotify等流媒体服务。
+    订阅如Netflix、Spotify、chatgpt、fanbox、patreon、starlink、Googleplay等流媒体服务。
     
 - **软件购买**
     
     购买或订阅如Adobe、Microsoft等软件产品。
-    
+  
+- **ADS广告充值**
+    Facebook、Google、tiktok、Pinterest、snapchat、Propeller Ads
+
+- **其他类目**
+    国际机票、留学缴费、海外考试、海外物流
 
 **推荐的虚拟信用卡开卡平台**
 
-对于需要多功能和多场景使用的用户，Fomecard是理想的选择。点击查看详情并开卡：[FOMEPay](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)。
+对于需要多功能和多场景使用的用户，LimaoPay是理想的选择。点击查看详情并开卡：[LimaoPay]([https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80](https://www.limaopay.com/register/#/register?codes=dj7IcYC3))。
 
 **常见问题解答**
 
-**Q: Fomecard 是否支持退款？**
+**Q: LimaoPay 是否支持退款？**
 
-A: 是的，Fomecard 支持交易退款，退款金额将返回到您的卡余额中。
+A: 是的，LimaoPay 支持交易退款，退款金额将返回到您的卡余额中。
 
-**Q: 使用 Fomecard 有哪些限制？**
+**Q: 使用 LimaoPay 有哪些限制？**
 
-A: Fomecard 主要限制包括不能用于提现和某些地区的特定交易，具体详情请参阅用户协议。
+A: LimaoPay 主要限制包括不能用于提现和某些地区的特定交易，具体详情请参阅用户协议。
 
-通过使用 Fomecard，您不仅能享受免费、便捷的支付体验，还能在全球范围内轻松管理您的财务需求。
+通过使用 LimaoPay，您不仅能享受免费、便捷的支付体验，还能在全球范围内轻松管理您的财务需求。
