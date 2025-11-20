@@ -25,11 +25,10 @@
 **如何开通并使用 LimaoPay**
 
  **访问 LimaoPay 官网**
+    [打开LimaoPay 官网](https://www.limaopay.com/register/#/register?codes=dj7IcYC3)
     
-    打开 [LimaoPay 官网](https://www.limaopay.com/register/#/register?codes=dj7IcYC3)
  **开通流程**
-
-    打开 ([注册教程链接](https://acnex1lpvjjy.feishu.cn/wiki/Crf5wDohoiMjIjkYiKgc7VuWnDh)
+    [打开注册教程](https://acnex1lpvjjy.feishu.cn/wiki/Crf5wDohoiMjIjkYiKgc7VuWnDh)
 
 **使用场景**
 
@@ -53,7 +52,7 @@
 
 **推荐的虚拟信用卡开卡平台**
 
-对于需要多功能和多场景使用的用户，LimaoPay是理想的选择。点击查看详情并开卡：([查看详情](https://www.limaopay.com/register/#/register?codes=dj7IcYC3))。
+对于需要多功能和多场景使用的用户，LimaoPay是理想的选择。点击查看详情并开卡：[查看详情](https://www.limaopay.com/register/#/register?codes=dj7IcYC3)
 
 **常见问题解答**
 
