@@ -24,10 +24,10 @@
 
 **如何开通并使用 LimaoPay**
 
- **访问 LimaoPay 官网**
+ **1.访问 LimaoPay 官网**
     [打开LimaoPay 官网](https://www.limaopay.com/register/#/register?codes=dj7IcYC3)
     
- **开通流程**
+ **2.开通流程**
     [打开注册教程](https://acnex1lpvjjy.feishu.cn/wiki/Crf5wDohoiMjIjkYiKgc7VuWnDh)
 
 **使用场景**
